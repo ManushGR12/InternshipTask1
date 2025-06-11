@@ -1,5 +1,5 @@
 # InternshipTask1
-Data Analysis with Python, here we are going to perfor the following tasks.$ git push -u origin main
+Data Analysis with Python, here we are going to perfor the following tasks.
 **Project Steps**
 1. Dataset Selection
   ● Dataset: Download the Student Performance Dataset from a provided source.
